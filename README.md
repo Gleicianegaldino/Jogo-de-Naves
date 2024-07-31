@@ -6,6 +6,8 @@ Bootcamp Talke Blip Web Developer.
 
 Prof. Denilson Bonatti - DIO.
 
+## Deploy
+https://jogo-de-naves-gg.netlify.app/
 
 # Preview
 ![j1](https://user-images.githubusercontent.com/78940661/178122542-22379788-54f4-4cb1-8ae2-1097a7d91c46.png)
